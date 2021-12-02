@@ -17,3 +17,14 @@ https://blitzjs.com/docs/get-started
 ✔ Install dependencies? · yarn
 ✔ Pick a form library (you can switch to something else later if you want) · React Final Form
 
+==> cd cnctr-co
+
+
+==> blitz dev
+
+
+==> blitz generate all project name:string
+
+
+==> prisma migrate dev (run automatically)
+
