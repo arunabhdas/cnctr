@@ -11,6 +11,9 @@ Cnctr Stack is an open-source serverless, no-code, zero-configuration CMS for th
 ## Cnctr CRM
 Cnctr CRM deploys programmatic distribution logistics using a secure, cloud-first, event-driven architecture
 
+## Cnctr COM
+Cnctr COM is a fully-configurable ecommerce module 
+
 ## Steps
 
 yarn create next-app --typescript
