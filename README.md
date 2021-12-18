@@ -4,27 +4,24 @@ Connectr is a CRM, CMS and ERP rolled into one.
 
 Cnctr is an  End-to-end Enterprise Commerce and Business Intelligence Solution
 
-# Steps
+## Steps
 
-https://blitzjs.com/docs/get-started
+yarn create next-app --typescript
 
-==> yarn global add blitz
+## Development
 
-==> blitz new cnctr-co
-✔ You have the latest Blitz version
-✔ Pick a new project's language · TypeScript
-✔ Pick your new app template · full
-✔ Install dependencies? · yarn
-✔ Pick a form library (you can switch to something else later if you want) · React Final Form
+Inside that directory, you can run several commands:
 
-==> cd cnctr-co
+  yarn dev
+    Starts the development server.
 
+  yarn build
+    Builds the app for production.
 
-==> blitz dev
+  yarn start
+    Runs the built app in production mode.
 
+We suggest that you begin by typing:
 
-==> blitz generate all project name:string
-
-
-==> prisma migrate dev (run automatically)
-
+  cd cnctr
+  yarn dev
