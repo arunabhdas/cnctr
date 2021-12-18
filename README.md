@@ -1,12 +1,12 @@
 # Cnctr 
 
-Connectr is an open source web3 technology stack comprising of CRM, CMS and ERP modules.
+Cnctr is an open source web3 technology stack comprising of CRM, CMS and ERP modules.
 
 ## Cnctr ERP
 Cnctr ERP is an  End-to-end Enterprise Commerce and Business Intelligence Solution
 
-## Cnctr Stack
-Cnctr Stack is an open-source serverless, no-code, web3 technology stack for the omniverse
+## Cnctr CMS
+Cnctr Stack is an open-source serverless, no-code, zero-configuration CMS for the web3 omniverse
 
 ## Cnctr CRM
 Cnctr CRM deploys programmatic distribution logistics using a secure, cloud-first, event-driven architecture
